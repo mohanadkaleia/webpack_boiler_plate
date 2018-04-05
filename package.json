@@ -1,0 +1,22 @@
+{
+  "name": "webpack_bolier_plate",
+  "version": "1.0.0",
+  "description": "A bolier plate project the can be used as a template for future proejcts that uses webpack",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Mohanad Kaleia <ms.kaleia@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
